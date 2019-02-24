@@ -1,3 +1,6 @@
+**Atlas Mod Downloader** by Phoenix125.com.
+(This is a simple tweak to barry_carey's ARK Mod Downloader... 99% credit and thanks goes to him) 
+
 **ARK Mod Downloader**
 ------------------------------
 As many know you cannot simply download ARK mods via SteamCMD.  The individual files come archived as .z files which will not work with a server. 
