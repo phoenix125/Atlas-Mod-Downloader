@@ -1,6 +1,6 @@
-----------------------
- Atlas Mod Downloader
-----------------------
+----------------------------------------
+ Atlas Mod Downloader v1.0 (2019-02-24)
+----------------------------------------
 by Phoenix125 , http://www.Phoenix125.com , https://github.com/phoenix125/Atlas-Mod-Downloader
 This is a simple tweak to barry_carey's ARK Mod Downloader... 99% credit and thanks goes to him. https://github.com/barrycarey/Ark_Mod_Downloader/tree/master/dist
 
