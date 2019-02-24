@@ -6,6 +6,7 @@ This is a simple tweak to barry_carey's ARK Mod Downloader... 99% credit and tha
 
 - This utility will download Atlas mods using SteamCMD, uncompress them, move them to your Atlas folder, and create the .mod file.
 - This utility run via command line.. best used in a batch file.
+- To disable Atlas' built-in mod downloader, add the following to your commandline arguement to all grid servers:  -manualmanagedmods
 
 Sample usage:
 AtlasModDownloader.exe --modids 1635287345 --workingdir D:\temp --steamcmd "D:\Game Servers\SteamCMD" --workingdir "D:\Game Servers\Atlas Dedicated Server"
