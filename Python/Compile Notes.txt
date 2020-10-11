@@ -1,0 +1,20 @@
+Download and install Python
+Copy the arkit.py in the same folder as AtlasModDownloader, or in C:\Users\kim12\AppData\Local\Programs\Python\Python39\Lib
+
+Then in Windows CMD:
+pip install pyinstaller
+pyinstaller --onefile AtlasModDownloader.py
+
+
+
+
+http://www.pyinstaller.org/
+https://github.com/barrycarey/Ark_Mod_Downloader/blob/master/arkit.py
+https://github.com/project-umbrella/arkit.py
+
+An alternative compiler is:
+https://pypi.org/project/cx-Freeze/
+
+Or
+http://www.py2exe.org/index.cgi/Tutorial
+https://pypi.org/project/py2exe/

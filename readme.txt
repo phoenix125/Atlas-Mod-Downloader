@@ -10,7 +10,7 @@ This is a simple tweak to barry_carey's ARK Mod Downloader... 99% credit and tha
 - You will still need to add the modids to your ServerGrid.json file in order for your Atlas server to use them.
 
 Sample usage:
-AtlasModDownloader_v1.0.exe --modids 1635287345 --workingdir D:\temp --steamcmd "D:\Game Servers\SteamCMD" --workingdir "D:\Game Servers\Atlas Dedicated Server"
+AtlasModDownloader.exe --modids 1635287345 --workingdir D:\temp --steamcmd "D:\Game Servers\SteamCMD" --workingdir "D:\Game Servers\Atlas Dedicated Server"
 
 ---------------------------------------
  ORIGINAL DOCUMENTATION by barry_carey
